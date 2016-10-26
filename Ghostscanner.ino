@@ -8,7 +8,7 @@
  This sketch originates from Virtualmix: http://goo.gl/kJ8Gl
  Has been modified by Winkle ink here: http://winkleink.blogspot.com.au/2012/05/arduino-hc-sr04-ultrasonic-distance.html
  And modified further by ScottC here: http://arduinobasics.blogspot.com.au/2012/11/arduinobasics-hc-sr04-ultrasonic-sensor.html
- And rewrittten for other purposes by Peter Svedman : https://github.com/
+ And rewrittten for other purposes by Peter Svedman : https://github.com/petersvedman/Ghostscanner5000/
  on 10 Nov 2012.
  */
 
