@@ -9,7 +9,7 @@ GhostScanner 5000
 Consists of :
 
 1 Arduino UNO R3 
-1 HC-SR04 Ultrasound module 
+1 HC-SR04 Ultrasound module
 1 9V battery with plug for the Arduino board 
 
 1 Custom LED board built on stripboard.
